@@ -12,3 +12,5 @@ ESA-4-Shopping-Interface
 ESA-5-Product-Search
 
 ESA-6-Loyalties-Program
+
+ ESA-7-Shopping-Location 
